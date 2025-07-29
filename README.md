@@ -27,9 +27,9 @@ Designed for tourists and travelers who need quick access to essential tools whi
 
 > *(Note: Replace with the actual APIs you used if different)*
 
-## 📷 Screenshots
+<!--## 📷 Screenshots
 
-*(Include screenshots here if available — showing the currency and language translator UI)*
+*(Include screenshots here if available — showing the currency and language translator UI)*-->
 
 ## 🚀 How to Run Locally
 
